@@ -1,0 +1,7 @@
+This project is deployed on xampp localhost. 
+Place the project folder into directory/xampp/htdocs/project_directory.
+
+The detailed tutorial will be updated soon.
+Php and Mysqli procedural is used.
+
+Code for Mysqli OO and MySqli Procedural will be updated soon.
