@@ -1,0 +1,1 @@
+This Login Logout functionality is implemented using Php Data Objets (PDO) Queries.
